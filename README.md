@@ -1,5 +1,3 @@
-Your README looks great and clear! Here’s a polished version including the **virtual environment** note (which is good practice to mention) and some small formatting tweaks for clarity and consistency:
-
 ````markdown
 # Nano Indentation Prediction
 
